@@ -10,4 +10,4 @@ elif(choice == "2"):
     open_shop()
 elif choice == "q":
     print("Goodbye!")
-    break
+    
