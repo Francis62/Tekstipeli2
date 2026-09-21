@@ -1,6 +1,6 @@
 def open_shop():
     print("Welcome to the shop!")
-    buy = input("What would you like to buy?\n A.apple\nB.Gun\nC.Jerky").lower()
+    buy = input("What would you like to buy?\nA.apple\nB.Gun\nC.Jerky\nCostumer: ").lower()
     if buy == "A":
         print('"An apple a day keeps the doctor away."')
     if buy == "B":
