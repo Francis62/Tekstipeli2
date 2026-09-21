@@ -1,5 +1,4 @@
 def enter_forest():
-    print("Forest is under development")
     print("A bear appears front of you")
 
     choice= input("Do you want to fight? (yes/no):")
