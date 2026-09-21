@@ -1,6 +1,6 @@
 
 from shop import open_shop
-# from forest import forest
+from forest import enter_forest
 
 print("Welcome to play bear game")
 choice = input("Choose: ")
@@ -10,4 +10,4 @@ elif(choice == "2"):
     open_shop()
 elif choice == "q":
     print("Goodbye!")
-    break
+    
