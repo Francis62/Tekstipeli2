@@ -1,6 +1,6 @@
 
 from shop import open_shop
-# from forest import forest
+from forest import enter_forest
 
 print("Welcome to play bear game")
 choice = input("Choose: ")
